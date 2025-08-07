@@ -1,0 +1,1 @@
+# Core package for Multi-Agent Cognition Kernel 

@@ -1,5 +1,5 @@
-import temporal_memory
-import agent_hub
+from . import temporal_memory
+from . import agent_hub
 import time
 
 class CoreKernel:
